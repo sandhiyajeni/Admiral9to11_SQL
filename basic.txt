@@ -1,1 +1,2 @@
 welcome to Sql class.
+in Sql there are 5 commands.
